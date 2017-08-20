@@ -216,3 +216,6 @@ button .ripple {
         opacity: 0;
     }
 }
+
+#warning {
+	color: red;
